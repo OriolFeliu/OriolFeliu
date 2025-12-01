@@ -11,7 +11,12 @@
 
 ### 🔭 Featured Projects
 - [**Portfolio**](https://github.com/OriolFeliu/portfolio) – Personal portfolio website built with React + Tailwind.  
-- [**Traffic Signal Control**](https://github.com/OriolFeliu/RL-TrafficFlow-BQN) – Master's thesis project using Reinforcement Learning for adaptive traffic lights in SUMO.   
+- [**Traffic Signal Control**](https://github.com/OriolFeliu/RL-TrafficFlow-BQN) – Master's thesis project using Reinforcement Learning for adaptive traffic lights in SUMO.
+
+---
+
+### 🚀 Open Source Contributions
+-  [**DigiPaws**](https://github.com/nethical6/digipaws) – Implemented a dual-dial time picker (hours/minutes) for the Focus Mode feature.
 
 ---
 
